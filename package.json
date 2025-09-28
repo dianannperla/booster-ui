@@ -8,7 +8,7 @@
     "test": "jest"
   },
   "keywords": ["ui", "components", "react", "vue", "angular"],
-  "author": "New Updated Author Name",
+  "author": "Updated Author Name",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.0",
